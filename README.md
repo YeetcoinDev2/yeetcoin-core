@@ -9,7 +9,7 @@ What is Yeetcoin?
 ----------------
 
 Yeetcoin is a digital currency based off Litecoin and the original Bitcoin Whitepaper that
-enables encrypted payments anywhere in the world. Yeetcoin uses peer-to-peer technology to
+enables you to make encrypted payments anywhere in the world. Yeetcoin uses peer-to-peer technology to
 operate; using networked computers to carry out transactions and deliver them securely.
 Yeetcoin Core is the name of an open source wallet which enables the use of this currency.
 
